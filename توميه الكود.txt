@@ -1,1 +1,0 @@
-pyobfuscator test.py -o new.py
